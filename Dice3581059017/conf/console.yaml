@@ -1,0 +1,7 @@
+master: 2753364619
+config:
+  private: 1
+  WebUIPort: 55875
+clock:
+  - moment: 11:45
+    task: clear

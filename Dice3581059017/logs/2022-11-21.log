@@ -1,0 +1,10 @@
+[2022-11-21 00:03:36] [WARNING]: 虚拟设备信息不存在, 将自动生成随机设备. 
+[2022-11-21 00:04:18] [WARNING]: 登录失败: 密码错误或账号被冻结 
+[2022-11-21 00:04:40] [WARNING]: 登录失败: 密码错误或账号被冻结 
+[2022-11-21 00:05:34] [WARNING]: 登录失败: 密码错误或账号被冻结 
+[2022-11-21 00:06:18] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-21 00:06:18] [WARNING]: 将在 5秒 后继续. 
+[2022-11-21 00:06:43] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-21 00:06:43] [WARNING]: 将在 5秒 后继续. 
+[2022-11-21 00:07:05] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-21 00:07:18] [WARNING]: 上报 Event 数据到 http://127.0.0.1:15910 失败: Post "http://127.0.0.1:15910": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 将进行第 1 次重试 

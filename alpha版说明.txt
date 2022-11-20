@@ -1,0 +1,8 @@
+技术测试版本，切勿外传
+由于go-cqhttp不支持多开，因此每个Dice文件夹独立使用一份go-cqhttp
+DiceQQ与目录中config.yml内uin保持一致
+setting.json文件记录go-cqhttp的http端口
+- "event_port"对应config.yml中最后一项servers.http.post.url的端口，每个DiceQQ共用一个
+- "account"中每一项的"api_port"对应config.yml中servers.http.port，每个DiceQQ不能相同
+
+双击exe将自动启动go-cqhttp.exe

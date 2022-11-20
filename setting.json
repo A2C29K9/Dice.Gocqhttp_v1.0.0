@@ -1,0 +1,9 @@
+{
+    "account": [
+        {
+            "botID": 3581059017,
+            "api_port": 15710
+        }
+    ],
+    "event_port": 15910
+}
